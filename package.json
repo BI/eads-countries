@@ -1,0 +1,19 @@
+{
+  "name": "eads-countries",
+  "version": "0.0.0",
+  "description": "Countries file for EADS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BI/eads-countries"
+  },
+  "author": "Jack Compton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BI/eads-countries/issues"
+  },
+  "homepage": "https://github.com/BI/eads-countries"
+}
