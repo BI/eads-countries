@@ -857,7 +857,7 @@ module.exports = [
   },
   {
     "country_id": 446,
-    "country_code": "CHN",
+    "country_code": "MAC",
     "country_code_2": "MO",
     "country_name": "Macau",
     "region_id": 1,
@@ -1409,7 +1409,7 @@ module.exports = [
   },
   {
     "country_id": 736,
-    "country_code": "SDN",
+    "country_code": "SDF",
     "country_code_2": "SD",
     "country_name": "Sudan (former)",
     "region_id": 5,
@@ -1913,7 +1913,7 @@ module.exports = [
   },
   {
     "country_id": 1063,
-    "country_code": "CHN",
+    "country_code": "TIB",
     "country_code_2": 0,
     "country_name": "China (Tibet)",
     "region_id": 1,
