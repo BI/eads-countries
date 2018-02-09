@@ -2150,5 +2150,29 @@ module.exports = [
     "country_name": "New Independent States Region",
     "region_id": 7,
     "region_name": "World"
+  },
+  {
+    "country_code": "ATA",
+    "country_name": "Antarctica"
+  },
+  {
+    "country_code": "ATF",
+    "country_name": "French Southern and Antarctic Lands"
+  },
+  {
+    "country_code": "-99",
+    "country_name": "Northern Cyprus"
+  },
+  {
+    "country_code": "FLK",
+    "country_name": "Falkland Islands"
+  },
+  {
+    "country_code": "GRL",
+    "country_name": "Greenland"
+  },
+  {
+    "country_code": "LUX",
+    country_name: "Luxembourg"
   }
 ]
