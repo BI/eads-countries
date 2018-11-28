@@ -1315,7 +1315,7 @@ module.exports = [
     "country_id": 748,
     "country_code": "SWZ",
     "country_code_2": "SWZ",
-    "country_name": "Swaziland",
+    "country_name": "Eswatini",
     "region_id": 5,
     "region_name": "Sub-Saharan Africa"
   },
