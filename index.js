@@ -363,7 +363,7 @@ module.exports = [
     "country_id": 807,
     "country_code": "MKD",
     "country_code_2": "MKD",
-    "country_name": "Macedonia",
+    "country_name": "North Macedonia",
     "region_id": 2,
     "region_name": "Europe and Eurasia"
   },
